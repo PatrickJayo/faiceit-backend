@@ -1,12 +1,6 @@
-# SmartBrain-api - v2
-Final project for ZTM course
+# Faiceit - backend
 
-1. Clone this repo
-2. Run `npm install`
-3. Run `npm start`
-4. You must add your own API key in the `controllers/image.js` file to connect to Clarifai API
-5. Add your own database credentials to `server.js` line 12
+ Faiceit is a application that utilizes artificia intelligence to detect human faces. The front end was built with HTML, CSS, and JavaScript + React.js. The backend was built with Node.js, Express.js, PostgreSQL and hosted on Heroku. To demo, either login with credentials email: "test@gmail.com" and password: "test12345" or create an account!
 
-You can grab Clarifai API key [here](https://www.clarifai.com/)
+ Check out the front end [here](https://github.com/PatrickJayo/faiceit)
 
-** Make sure you use postgreSQL instead of mySQL for this code base.
